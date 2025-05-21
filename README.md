@@ -13,16 +13,16 @@ Este é um projeto simples de sistema de cadastro de usuários feito com **HTML*
 
 ## Estrutura de Pastas
 
--├── index.html # Tela de listagem de usuários
--├── pages/
--│ └── register.html # Tela de cadastro/edição de usuário
--├── css/
--│ └── style.css # Estilos para todas as páginas
--├── js/
--│ ├── scripts.js # Scripts da listagem de usuários
--│ └── register.js # Scripts de validação e cadastro
--├── img/
--│ └── pexels-asadphoto-7663307.jpg # Imagem de fundo da aplicação
+- ├── index.html # Tela de listagem de usuários
+- ├── pages/
+- │ └── register.html # Tela de cadastro/edição de usuário
+- ├── css/
+- │ └── style.css # Estilos para todas as páginas
+- ├── js/
+- │ ├── scripts.js # Scripts da listagem de usuários
+- │ └── register.js # Scripts de validação e cadastro
+- ├── img/
+- │ └── pexels-asadphoto-7663307.jpg # Imagem de fundo da aplicação
 
 
 ## Validações no Formulário
