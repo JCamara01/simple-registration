@@ -1,6 +1,6 @@
 # simple-registration
 
-Este é um projeto simples de sistema de cadastro de usuários feito com **HTML**, **CSS** e **JavaScript puro**, utilizando o `localStorage` do navegador para armazenar os dados.
+Este é um projeto simples de sistema de cadastro de usuários feito com HTML, CSS e JavaScript puro, utilizando o localstorage do navegador para armazenar os dados.
 
 ## Funcionalidades
 
@@ -9,7 +9,7 @@ Este é um projeto simples de sistema de cadastro de usuários feito com **HTML*
 - Listar usuários cadastrados
 - Editar dados de usuários existentes
 - Excluir usuários da lista
-- Armazenamento persistente via `localStorage`
+- Armazenamento persistente via localStorage
 
 ## Estrutura de Pastas
 
@@ -35,9 +35,9 @@ O formulário de cadastro realiza validações personalizadas:
 ## Como Usar
 
 1. Clone ou baixe este repositório.
-2. Abra o arquivo `index.html` em um navegador.
-3. Clique em **"Novo usuário"** para adicionar um novo registro.
-4. Preencha o formulário com os dados e clique em **"Salvar"**.
+2. Abra o arquivo index.html em um navegador.
+3. Clique em "Novo usuário" para adicionar um novo registro.
+4. Preencha o formulário com os dados e clique em "Salvar".
 5. Para editar, clique no ícone ✏️ ao lado do usuário.
 6. Para excluir, clique no ícone 🗑️.
 
@@ -46,9 +46,9 @@ O formulário de cadastro realiza validações personalizadas:
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- Armazenamento com `localStorage`
+- Armazenamento com localStorage
 
 ## Créditos da Imagem
 
-Imagem de fundo por [Asad Photo Maldives](https://www.pexels.com/@asadphotography/) via [Pexels](https://www.pexels.com/photo/aerial-view-of-trees-near-seashore-7663307/)
+Imagem de fundo por Asad Photo Maldives(https://www.pexels.com/@asadphotography/) via Pexels(https://www.pexels.com/photo/aerial-view-of-trees-near-seashore-7663307/)
 
